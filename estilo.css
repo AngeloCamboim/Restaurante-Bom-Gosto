@@ -10,8 +10,18 @@ img {
 	height: 50%;
 	position: relative; left:5px;
 }
-
-
+/*TEXTOS*/
+#hamburguer{
+	font-family: Chalkduster, fantasy;
+	font-size: 30px;
+	text-align: center;
+}
+#hambList{
+	font-style: italic;
+	font-family: Chalkduster;
+	font-size: 30px;
+	text-align: center;
+}
 /*CORES*/
 .preto{
 	color: #ccc; /*Cor para caso seja usado texto no slide*/
