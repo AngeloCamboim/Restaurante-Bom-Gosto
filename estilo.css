@@ -5,12 +5,12 @@ img {
 	border: 0;
 	padding: 5px;
 }
-.teste {
+.teste { /*Imagem do hamburguer*/
 	width: 50%;
 	height: 50%;
 	position: relative; left:5px;
 }
-/*TEXTOS*/
+/*TEXTOS Index.html*/
 #hamburguer{
 	font-family: Chalkduster, fantasy;
 	font-size: 30px;
@@ -21,6 +21,13 @@ img {
 	font-family: Chalkduster;
 	font-size: 30px;
 	text-align: center;
+}
+/*Entrega.html*/
+#TituloEntrega{
+	font-family: Chalkduster;
+}
+#Sobremesas{
+	font-family: Chalkduster;
 }
 /*CORES*/
 .preto{
